@@ -12,7 +12,7 @@ Hello! 👋 I'm Nethmi Nawodya, a passionate software engineering udergraduate w
 - **Version Control:** Git
 
 - ## Contact Me
-Feel free to reach out to me via email at nawodyanethmi@gmail.com
+Feel free to reach out to me via email at nawodyanethmi709@gmail.com
 
 ## Thank You for Visiting!
 Thank you for visiting my GitHub profile! I'm excited about the opportunity to collaborate and create impactful projects together. Let's connect and build something awesome! 😊
